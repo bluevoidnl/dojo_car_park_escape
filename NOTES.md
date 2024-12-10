@@ -19,6 +19,6 @@
 ✅ Exit the car park from 1 floor where there is 2 spots, car parked on left most spot
 [[2, 0]] -> ["R1"]
 
-⚠  Exit the car park from 2 floors where there is 3 spots on the top floor, 
+✅  Exit the car park from 2 floors where there is 3 spots on the top floor, 
 car parked on right most spot, stairs on center spot
-[[0, 1, 2], [0,0,0]] -> ["L1", "D1", "R2"]
+[[0, 1, 2], [0,0,0]] -> ["L1", "D1", "R1"]

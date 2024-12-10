@@ -36,6 +36,6 @@ class MainTest {
         val route = carPark.exitCarPark()
 
         // Then
-        assertEquals(listOf("L1", "D1", "R2"), route)
+        assertEquals(listOf("L1", "D1", "R1"), route)
     }
 }
