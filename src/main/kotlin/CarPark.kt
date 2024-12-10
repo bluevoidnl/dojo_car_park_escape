@@ -1,4 +1,4 @@
-class CarPark(val parkinglot: List<List<Int>>) {
+class CarPark(val parkinglot: List<List<GarageItem>>) {
 
     fun exitCarPark(): List<String> {
 
